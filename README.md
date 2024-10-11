@@ -3,7 +3,7 @@ It is an anmazing app give some knowlage about som dishes and give show you your
 
 <br>
 <br>
-<a href="https://ahmed-abo-rafat.github.io/mealify/" target="_blank">
+<a href="https://ahmed-abo-rafat.github.io/mealify/" target="_blank>
   <img
   src="https://i.ibb.co/FHT0Q2W/Capture.png"
   alt="banner"
